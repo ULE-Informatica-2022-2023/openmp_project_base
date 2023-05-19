@@ -5,4 +5,5 @@
 Don't forget add these lines in (.pro) file
 
 QMAKE_CXXFLAGS += -fopenmp
+
 LIBS += -fopenmp
