@@ -1,4 +1,4 @@
-index;code;municipal;zone;section;name;census;abstentionsv_cast;v_invalid;v_valid;v_white
+code;municipal;zone;section;name;census;abstentions;v_cast;v_invalid;v_valid;v_white
 1;ABAIGAR;1;1;U;77.0;19;58.0;0;58;2
 2;ABARZUZA;1;1;U;452.0;227;225.0;1;224;0
 3;ABAURREGAINA / ABAURREA ALTA;1;1;U;155.0;43;112.0;5;107;4
